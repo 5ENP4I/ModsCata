@@ -1,0 +1,35 @@
+[
+  {
+    "id": "welding_wire_steel",
+    "copy-from": "welding_wire_steel",
+    "type": "AMMO",
+    "name": {
+      "str": "welding wire",
+      "str_pl": "welding wire"
+    },
+    "price": "15 cent",
+    "price_postapoc": "50 cent"
+  },
+  {
+    "id": "welding_rod_steel",
+    "copy-from": "welding_rod_steel",
+    "type": "AMMO",
+    "name": {
+      "str": "welding rod",
+      "str_pl": "welding rod"
+    },
+    "price": "15 cent",
+    "price_postapoc": "50 cent"
+  },
+  {
+    "id": "brazing_rod_bronze",
+    "copy-from": "brazing_rod_bronze",
+    "type": "AMMO",
+    "name": {
+      "str": "brazing rod",
+      "str_pl": "brazing rod"
+    },
+    "price": "1 USD",
+    "price_postapoc": "50 cent"
+  }
+]

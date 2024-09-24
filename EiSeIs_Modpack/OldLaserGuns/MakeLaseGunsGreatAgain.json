@@ -1,0 +1,37 @@
+[
+  {
+    "id": "emp_gun",
+    "copy-from": "emp_gun",
+    "type": "GUN",
+    "name": { "str": "XM34 EMP projector", "str_pl": "XM34 EMP projector" },
+    "heat_per_shot":0
+  },
+  {
+    "id": "gatling_mech_laser",
+    "copy-from": "gatling_mech_laser",
+    "type": "GUN",
+    "name": { "str": "CMES laser cannon", "str_pl": "CMES laser cannon" },
+    "heat_per_shot":0
+  },
+  {
+    "id": "recon_mech_laser",
+    "copy-from": "recon_mech_laser",
+    "type": "GUN",
+    "name": { "str": "RMES marksman system", "str_pl": "RMES marksman system" },
+    "heat_per_shot":0
+  },
+  {
+    "id": "laser_rifle",
+    "copy-from": "laser_rifle",
+    "type": "GUN",
+    "name": { "str": "A7 laser rifle", "str_pl": "A7 laser rifle" },
+    "heat_per_shot":0
+  },
+  {
+    "id": "v29",
+    "copy-from": "v29",
+    "type": "GUN",
+    "name": { "str": "V29 laser pistol", "str_pl": "V29 laser pistol" },
+    "heat_per_shot":0
+  }
+]

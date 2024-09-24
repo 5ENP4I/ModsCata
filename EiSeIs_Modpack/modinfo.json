@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "eiseis_modpack",
+    "name": "Satelites modz",
+    "authors": [ "5ENP4I" ],
+    "maintainers": [ "5ENP4I" ],
+    "description": "That one mod with all 5ENP4I's mods so far",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
